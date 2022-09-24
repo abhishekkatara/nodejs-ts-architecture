@@ -1,0 +1,7 @@
+//Ignore directories in build
+node_modules/
+dist/
+
+
+//Ignore files in build
+package-lock.json
