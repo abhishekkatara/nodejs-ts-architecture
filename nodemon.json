@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "exec": "eslint . --ext .ts && tsc && ts-node dist/app.js"
+}
